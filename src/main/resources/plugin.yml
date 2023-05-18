@@ -1,0 +1,11 @@
+name: mypvp-core-api
+version: '1.0'
+main: net.snickersgenascht.projects.mypvpcoreapi.servers.spigotserver.SpigotServer
+api-version: 1.16
+authors: [ Snickersgenascht ]
+
+commands:
+  core:
+    aliases:
+      - coreapi
+      - coresystem
